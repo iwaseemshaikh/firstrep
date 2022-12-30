@@ -4,12 +4,6 @@ This is my third file
 This is my fourth file
 This is my fifth file
 This line is added from slave branch
-<<<<<<< HEAD
 This line is added from master branch
-=======
 This line is added from slave barnch
-<<<<<<< HEAD
->>>>>>> slave
-=======
 This line is added from slave branch
->>>>>>> 0c6b3a0b611f202655eaafa2ed9cebe15f3a5531
